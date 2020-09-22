@@ -1,7 +1,12 @@
-# hard_sphere_transitions
-This is a notebook that allows one to visualize the precomputed transitions between the critical points of the configuration spaces of hard spheres. The transitions are computed using _the zero temperature string_ method proposed by REF. Currently, the transitions are available for $n=2$ spheres.
+# **Transitions Between Critical Points of the Configuration Spaces of Hard Spheres**
+
+This is a notebook that allows one to visualize the precomputed transitions between the critical points of the configuration spaces of hard spheres. The transitions are computed using _the zero temperature string_ method proposed by [1, 2]. Currently, the transitions are available for $n=2$ spheres.
 
 Note: This notebook can be used in conjunction with the notebook that plots the known critical points of the configuration spaces of hard spheres.
+
+[1] W. E, W. Ren, and E. Vanden-Eijnden, [String method for the study of rare events](https://doi.org/10.1103/PhysRevB.66.052301), Phys. Rev. B: 66, 052301 (2002).
+
+[2] W. E, W. Ren, and E. Vanden-Eijnden, [Simplified and improved string method for computing the minimum energypaths in barrier-crossing events](https://doi.org/10.1063/1.2720838), J. Chem. Phys.: 126,164103 (2007). 
 
 ## **Security Statement**
 Connecting to a Jupyter notebook server running on your local machine can provide many benefits. With these benefits come serious potential risks. By connecting to a local runtime, you are allowing the Colaboratory frontend to execute code in the notebook using the local resources on your machine. This means that the notebook could:
@@ -45,3 +50,10 @@ Public License, Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ## **Acknowledgements**
 This material is based upon work supported by the National Science Foundation under Grant No. 1839370. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+
+
+
+
+
+

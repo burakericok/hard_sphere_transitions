@@ -1,6 +1,6 @@
 # **Transitions Between Critical Points of the Configuration Spaces of Hard Spheres**
 
-This is a notebook that allows one to visualize the precomputed transitions between the critical points of the configuration spaces of hard spheres. The transitions are computed using _the zero temperature string_ method proposed by Ren and Vanden-Eijnden. Currently, the transitions are available for $n=2$ spheres.
+This is a notebook that allows one to visualize the precomputed transitions between the critical points of the configuration spaces of hard spheres. Given two critical points, the best assignment between them is found using Gromov-Wasserstein distance. The transitions are computed using _the zero temperature string_ method proposed by Ren and Vanden-Eijnden. Currently, the transitions are available for $n=2$ spheres.
 
 Note: This notebook can be used in conjunction with the notebook that plots the known critical points of the configuration spaces of hard spheres.
 
